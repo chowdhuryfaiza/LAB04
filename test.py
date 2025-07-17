@@ -1,2 +1,2 @@
 print("welcome to github. I am using python.")
-print("this is for CSE412")
+print("This project is for CSE412, enjoy coding!")
